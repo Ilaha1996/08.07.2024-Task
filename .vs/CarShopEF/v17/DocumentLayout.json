@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\CarShopEF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A28ADFF-6174-41EB-B472-9AF1E281F964}|CarShopEF\\CarShopEF.csproj|c:\\users\\user\\source\\repos\\carshopef\\carshopef\\dal\\carshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A28ADFF-6174-41EB-B472-9AF1E281F964}|CarShopEF\\CarShopEF.csproj|solutionrelative:carshopef\\dal\\carshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A28ADFF-6174-41EB-B472-9AF1E281F964}|CarShopEF\\CarShopEF.csproj|c:\\users\\user\\source\\repos\\carshopef\\carshopef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A28ADFF-6174-41EB-B472-9AF1E281F964}|CarShopEF\\CarShopEF.csproj|solutionrelative:carshopef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A28ADFF-6174-41EB-B472-9AF1E281F964}|CarShopEF\\CarShopEF.csproj|c:\\users\\user\\source\\repos\\carshopef\\carshopef\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A28ADFF-6174-41EB-B472-9AF1E281F964}|CarShopEF\\CarShopEF.csproj|solutionrelative:carshopef\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A28ADFF-6174-41EB-B472-9AF1E281F964}|CarShopEF\\CarShopEF.csproj|c:\\users\\user\\source\\repos\\carshopef\\carshopef\\entities\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A28ADFF-6174-41EB-B472-9AF1E281F964}|CarShopEF\\CarShopEF.csproj|solutionrelative:carshopef\\entities\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A28ADFF-6174-41EB-B472-9AF1E281F964}|CarShopEF\\CarShopEF.csproj|c:\\users\\user\\source\\repos\\carshopef\\carshopef\\entities\\colour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A28ADFF-6174-41EB-B472-9AF1E281F964}|CarShopEF\\CarShopEF.csproj|solutionrelative:carshopef\\entities\\colour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A28ADFF-6174-41EB-B472-9AF1E281F964}|CarShopEF\\CarShopEF.csproj|c:\\users\\user\\source\\repos\\carshopef\\carshopef\\entities\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A28ADFF-6174-41EB-B472-9AF1E281F964}|CarShopEF\\CarShopEF.csproj|solutionrelative:carshopef\\entities\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A28ADFF-6174-41EB-B472-9AF1E281F964}|CarShopEF\\CarShopEF.csproj|c:\\users\\user\\source\\repos\\carshopef\\carshopef\\entities\\carcolours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A28ADFF-6174-41EB-B472-9AF1E281F964}|CarShopEF\\CarShopEF.csproj|solutionrelative:carshopef\\entities\\carcolours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarShopDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CarShopEF\\CarShopEF\\DAL\\CarShopDBContext.cs",
+              "RelativeDocumentMoniker": "CarShopEF\\DAL\\CarShopDBContext.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CarShopEF\\CarShopEF\\DAL\\CarShopDBContext.cs",
+              "RelativeToolTip": "CarShopEF\\DAL\\CarShopDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T20:15:17.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarColours.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CarShopEF\\CarShopEF\\Entities\\CarColours.cs",
+              "RelativeDocumentMoniker": "CarShopEF\\Entities\\CarColours.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CarShopEF\\CarShopEF\\Entities\\CarColours.cs",
+              "RelativeToolTip": "CarShopEF\\Entities\\CarColours.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T19:31:52.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CarShopEF\\CarShopEF\\Entities\\Car.cs",
+              "RelativeDocumentMoniker": "CarShopEF\\Entities\\Car.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CarShopEF\\CarShopEF\\Entities\\Car.cs",
+              "RelativeToolTip": "CarShopEF\\Entities\\Car.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T19:20:01.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Colour.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CarShopEF\\CarShopEF\\Entities\\Colour.cs",
+              "RelativeDocumentMoniker": "CarShopEF\\Entities\\Colour.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CarShopEF\\CarShopEF\\Entities\\Colour.cs",
+              "RelativeToolTip": "CarShopEF\\Entities\\Colour.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T19:19:10.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CarShopEF\\CarShopEF\\Entities\\Model.cs",
+              "RelativeDocumentMoniker": "CarShopEF\\Entities\\Model.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CarShopEF\\CarShopEF\\Entities\\Model.cs",
+              "RelativeToolTip": "CarShopEF\\Entities\\Model.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T19:17:10.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CarShopEF\\CarShopEF\\Entities\\Brand.cs",
+              "RelativeDocumentMoniker": "CarShopEF\\Entities\\Brand.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CarShopEF\\CarShopEF\\Entities\\Brand.cs",
+              "RelativeToolTip": "CarShopEF\\Entities\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T19:14:09.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CarShopEF\\CarShopEF\\Program.cs",
+              "RelativeDocumentMoniker": "CarShopEF\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CarShopEF\\CarShopEF\\Program.cs",
+              "RelativeToolTip": "CarShopEF\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T19:12:17.597Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
